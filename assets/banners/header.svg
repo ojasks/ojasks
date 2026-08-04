@@ -127,4 +127,14 @@
         Distributed Key-Value Store • Raft • Go
     </text>
 
+    <!-- Gengar -->
+    <image
+    href="../pokemon/gengar.png"
+    x="55"
+    y="175"
+    width="270"
+    height="270"
+    preserveAspectRatio="xMidYMid meet"
+    />
+
 </svg>
