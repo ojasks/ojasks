@@ -1,12 +1,12 @@
 <svg
-    width="1700"
+    width="1900"
     height="850"
     viewBox="0 0 1700 850"
     xmlns="http://www.w3.org/2000/svg"
 >
 
     <!-- Background -->
-    <rect width="1700" height="850" rx="18" fill="#0d1117"/>
+    <rect width="1900" height="850" rx="18" fill="#0d1117"/>
 
     <image
     x="-50"
