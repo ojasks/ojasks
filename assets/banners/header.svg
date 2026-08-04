@@ -1,17 +1,17 @@
 <svg
-    width="2100"
+    width="2300"
     height="850"
-    viewBox="0 0 2100 850"
+    viewBox="0 0 2300 850"
     xmlns="http://www.w3.org/2000/svg"
 >
 
     <!-- Background -->
-    <rect width="2100" height="850" rx="18" fill="#0d1117"/>
+    <rect width="2300" height="850" rx="18" fill="#0d1117"/>
 
     <image
-    x="-50"
+    x="-100"
     y="-10"
-    width="1800"
+    width="2150"
     height="850"
     preserveAspectRatio="xMidYMid slice"
     opacity="0.95"
