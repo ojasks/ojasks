@@ -9,9 +9,9 @@
     <rect width="2300" height="850" rx="18" fill="#0d1117"/>
 
     <image
-    x="-100"
+    x="-50"
     y="-10"
-    width="2150"
+    width="2300"
     height="850"
     preserveAspectRatio="xMidYMid meet"
     opacity="0.95"
