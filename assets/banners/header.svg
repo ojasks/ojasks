@@ -9,10 +9,10 @@
     <rect width="1200" height="700" rx="18" fill="#0d1117"/>
 
     <image
-    x="-20"
-    y="-70"
-    width="1240"
-    height="620"
+    x="-5"
+    y="-105"
+    width="1200"
+    height="660"
     preserveAspectRatio="xMidYMid slice"
     opacity="0.75"
     href="data:image/png;base64,
@@ -35,7 +35,7 @@
     <!-- Top label -->
     <text
         x="600"
-        y="65"
+        y="85"
         text-anchor="middle"
         fill="#a371f7"
         font-family="monospace"
@@ -48,7 +48,7 @@
     <!-- Name -->
     <text
         x="600"
-        y="125"
+        y="145"
         text-anchor="middle"
         fill="#f0f6fc"
         font-family="monospace"
@@ -61,7 +61,7 @@
     <!-- Role -->
     <text
         x="600"
-        y="170"
+        y="190"
         text-anchor="middle"
         fill="#e3b341"
         font-family="monospace"
@@ -73,7 +73,7 @@
     <!-- Skills box -->
     <rect
         x="355"
-        y="195"
+        y="215"
         width="490"
         height="55"
         rx="8"
@@ -84,7 +84,7 @@
 
     <text
         x="600"
-        y="230"
+        y="250"
         text-anchor="middle"
         fill="#f0f6fc"
         font-family="monospace"
@@ -96,7 +96,7 @@
     <!-- HiveMind Card -->
     <rect
         x="375"
-        y="270"
+        y="290"
         width="450"
         height="125"
         rx="10"
@@ -107,7 +107,7 @@
 
     <text
         x="600"
-        y="305"
+        y="325"
         text-anchor="middle"
         fill="#a371f7"
         font-family="monospace"
@@ -118,7 +118,7 @@
 
     <text
         x="600"
-        y="343"
+        y="363"
         text-anchor="middle"
         fill="#e3b341"
         font-family="monospace"
@@ -130,7 +130,7 @@
 
     <text
         x="600"
-        y="372"
+        y="392"
         text-anchor="middle"
         fill="#8b949e"
         font-family="monospace"
