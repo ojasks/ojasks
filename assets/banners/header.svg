@@ -1,0 +1,130 @@
+<svg
+    width="1200"
+    height="520"
+    viewBox="0 0 1200 520"
+    xmlns="http://www.w3.org/2000/svg"
+>
+
+    <!-- Background -->
+    <rect width="1200" height="520" rx="18" fill="#0d1117"/>
+
+    <!-- Outer border -->
+    <rect
+        x="2"
+        y="2"
+        width="1196"
+        height="516"
+        rx="16"
+        fill="none"
+        stroke="#30363d"
+        stroke-width="3"
+    />
+
+    <!-- Top label -->
+    <text
+        x="600"
+        y="85"
+        text-anchor="middle"
+        fill="#a371f7"
+        font-family="monospace"
+        font-size="30"
+        font-weight="bold"
+    >
+        ⚡ HELLO TRAINER! ⚡
+    </text>
+
+    <!-- Name -->
+    <text
+        x="600"
+        y="145"
+        text-anchor="middle"
+        fill="#f0f6fc"
+        font-family="monospace"
+        font-size="48"
+        font-weight="bold"
+    >
+        OJAS KUMAR SINGH
+    </text>
+
+    <!-- Role -->
+    <text
+        x="600"
+        y="195"
+        text-anchor="middle"
+        fill="#e3b341"
+        font-family="monospace"
+        font-size="22"
+    >
+        Software Engineer
+    </text>
+
+    <!-- Skills box -->
+    <rect
+        x="355"
+        y="225"
+        width="490"
+        height="55"
+        rx="8"
+        fill="#161b22"
+        stroke="#8957e5"
+        stroke-width="2"
+    />
+
+    <text
+        x="600"
+        y="260"
+        text-anchor="middle"
+        fill="#f0f6fc"
+        font-family="monospace"
+        font-size="19"
+    >
+        Distributed Systems • C++ • Go • AWS
+    </text>
+
+    <!-- HiveMind Card -->
+    <rect
+        x="375"
+        y="315"
+        width="450"
+        height="125"
+        rx="10"
+        fill="#161b22"
+        stroke="#8957e5"
+        stroke-width="2"
+    />
+
+    <text
+        x="600"
+        y="350"
+        text-anchor="middle"
+        fill="#a371f7"
+        font-family="monospace"
+        font-size="18"
+    >
+        CURRENTLY BUILDING
+    </text>
+
+    <text
+        x="600"
+        y="388"
+        text-anchor="middle"
+        fill="#e3b341"
+        font-family="monospace"
+        font-size="25"
+        font-weight="bold"
+    >
+        HiveMind
+    </text>
+
+    <text
+        x="600"
+        y="417"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-family="monospace"
+        font-size="16"
+    >
+        Distributed Key-Value Store • Raft • Go
+    </text>
+
+</svg>
