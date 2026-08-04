@@ -1,7 +1,7 @@
 <svg
-    width="1500"
+    width="1600"
     height="850"
-    viewBox="0 0 1500 850"
+    viewBox="0 0 1600 850"
     xmlns="http://www.w3.org/2000/svg"
 >
 
@@ -9,9 +9,9 @@
     <rect width="1200" height="700" rx="18" fill="#0d1117"/>
 
     <image
-    x="-60"
+    x="-25"
     y="-10"
-    width="1450"
+    width="1650"
     height="760"
     preserveAspectRatio="xMidYMid slice"
     opacity="0.95"
