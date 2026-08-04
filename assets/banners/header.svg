@@ -1,18 +1,18 @@
 <svg
-    width="1600"
+    width="1700"
     height="850"
-    viewBox="0 0 1600 850"
+    viewBox="0 0 1700 850"
     xmlns="http://www.w3.org/2000/svg"
 >
 
     <!-- Background -->
-    <rect width="1600" height="850" rx="18" fill="#0d1117"/>
+    <rect width="1700" height="850" rx="18" fill="#0d1117"/>
 
     <image
     x="-25"
     y="-10"
     width="1650"
-    height="760"
+    height="850"
     preserveAspectRatio="xMidYMid slice"
     opacity="0.95"
     href="data:image/png;base64,
@@ -24,8 +24,8 @@
     <rect
         x="2"
         y="2"
-        width="1196"
-        height="696"
+        width="1696"
+        height="846"
         rx="16"
         fill="none"
         stroke="#30363d"
