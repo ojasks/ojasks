@@ -70,7 +70,7 @@
     <!-- Gengar -->
     <image
     x="160"
-    y="870"
+    y="820"
     width="400"
     height="400"
     preserveAspectRatio="xMidYMid meet"
@@ -81,7 +81,7 @@
     <!-- Charizard -->
     <image
     x="1540"
-    y="820"
+    y="780"
     width="500"
     height="500"
     preserveAspectRatio="xMidYMid meet"
