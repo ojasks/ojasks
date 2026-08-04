@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ojas 👋</h1>
 
-<!--
-**ojasks/ojasks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Software Engineer • Distributed Systems • C++ • Go • AWS
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Building 🐝
+
+**HiveMind** — A distributed key-value store implementing Raft consensus in Go.
+
+### Interested In
+
+- Distributed Systems
+- Databases
+- Infrastructure
+- Algorithms
+- Low-Level Engineering
+
+### Tech
+
+C++ • Go • Java • Python • AWS • Docker • PostgreSQL • Linux
