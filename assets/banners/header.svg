@@ -31,36 +31,36 @@
     stroke-width="3"
     />
 
-    <!-- Top label -->
-    <text x="1125" y="499" text-anchor="middle" fill="#a371f7" font-family="monospace" font-size="30" font-weight="bold">
+    <!-- Top label (bigger) -->
+    <text x="1125" y="370" text-anchor="middle" fill="#a371f7" font-family="monospace" font-size="36" font-weight="bold">
         ⚡ HELLO TRAINER! ⚡
     </text>
 
-    <!-- Name -->
-    <text x="1125" y="559" text-anchor="middle" fill="#f0f6fc" font-family="monospace" font-size="48" font-weight="bold">
+    <!-- Name (bigger) -->
+    <text x="1125" y="430" text-anchor="middle" fill="#f0f6fc" font-family="monospace" font-size="58" font-weight="bold">
         OJAS KUMAR SINGH
     </text>
 
-    <!-- Role -->
-    <text x="1125" y="604" text-anchor="middle" fill="#e3b341" font-family="monospace" font-size="22">
+    <!-- Role (bigger) -->
+    <text x="1125" y="475" text-anchor="middle" fill="#e3b341" font-family="monospace" font-size="26">
         Software Engineer
     </text>
 
-    <!-- Skills box (center of box ≈ y=656, the vertical middle of the whole canvas) -->
-    <rect x="880" y="629" width="490" height="55" rx="8" fill="#161b22" stroke="#8957e5" stroke-width="2"/>
-    <text x="1125" y="664" text-anchor="middle" fill="#f0f6fc" font-family="monospace" font-size="19">
+    <!-- Skills box (bigger) -->
+    <rect x="845" y="500" width="560" height="64" rx="8" fill="#161b22" stroke="#8957e5" stroke-width="2"/>
+    <text x="1125" y="539" text-anchor="middle" fill="#f0f6fc" font-family="monospace" font-size="22">
         Distributed Systems • C++ • Go • AWS
     </text>
 
-    <!-- HiveMind Card -->
-    <rect x="900" y="704" width="450" height="125" rx="10" fill="#161b22" stroke="#8957e5" stroke-width="2"/>
-    <text x="1125" y="739" text-anchor="middle" fill="#a371f7" font-family="monospace" font-size="18">
+    <!-- HiveMind Card — center of this box sits at y=656.5, the vertical middle of the 1312 canvas -->
+    <rect x="865" y="584" width="520" height="145" rx="10" fill="#161b22" stroke="#8957e5" stroke-width="2"/>
+    <text x="1125" y="619" text-anchor="middle" fill="#a371f7" font-family="monospace" font-size="20">
         CURRENTLY BUILDING
     </text>
-    <text x="1125" y="777" text-anchor="middle" fill="#e3b341" font-family="monospace" font-size="25" font-weight="bold">
+    <text x="1125" y="657" text-anchor="middle" fill="#e3b341" font-family="monospace" font-size="30" font-weight="bold">
         HiveMind
     </text>
-    <text x="1125" y="806" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="16">
+    <text x="1125" y="686" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="18">
         Distributed Key-Value Store • Raft • Go
     </text>
 
@@ -70,7 +70,7 @@
     <!-- Gengar -->
     <image
     x="90"
-    y="570"
+    y="645"
     width="400"
     height="400"
     preserveAspectRatio="xMidYMid meet"
@@ -81,7 +81,7 @@
     <!-- Charizard -->
     <image
     x="1740"
-    y="510"
+    y="585"
     width="460"
     height="460"
     preserveAspectRatio="xMidYMid meet"
