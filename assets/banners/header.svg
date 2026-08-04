@@ -140,8 +140,8 @@
 
     <!-- Charizard -->
     <image
-    x="760"
-    y="70"
+    x="865"
+    y="170"
     width="520"
     height="520"
     preserveAspectRatio="xMidYMid meet"
