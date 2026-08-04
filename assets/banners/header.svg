@@ -24,7 +24,7 @@
     <rect
         x="2"
         y="2"
-        width="1696"
+        width="2096"
         height="846"
         rx="16"
         fill="none"
@@ -142,7 +142,7 @@
     <line
     x1="35"
     y1="465"
-    x2="1165"
+    x2="2065"
     y2="465"
     stroke="#30363d"
     stroke-width="2"
