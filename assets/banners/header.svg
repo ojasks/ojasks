@@ -10,9 +10,9 @@
 
     <image
     x="-5"
-    y="-140"
+    y="-25"
     width="1210"
-    height="690"
+    height="610"
     preserveAspectRatio="xMidYMid slice"
     opacity="0.95"
     href="data:image/png;base64,
