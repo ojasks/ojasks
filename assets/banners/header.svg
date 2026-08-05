@@ -16,6 +16,17 @@
         transform-box: fill-box;
         transform-origin: center;
       }
+
+      @keyframes gengarFloat {
+       0%   { transform: translateY(0px) rotate(0deg); }
+       50%  { transform: translateY(-18px) rotate(-2deg); }
+       100% { transform: translateY(0px) rotate(0deg); }
+     }
+     .gengar {
+       animation: gengarFloat 4s ease-in-out infinite;
+       transform-box: fill-box;
+       transform-origin: center;
+     }
     </style>
 
     <!-- Background -->
