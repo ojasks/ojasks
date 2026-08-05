@@ -34,8 +34,13 @@
         50%  { transform: scale(1.045); }
         100% { transform: scale(1); }
       }
+      @keyframes charizardEmberGlow {
+        0%   { filter: drop-shadow(0 0 0px rgba(255,140,40,0.0)); }
+        50%  { filter: drop-shadow(0 0 16px rgba(255,140,40,0.65)); }
+        100% { filter: drop-shadow(0 0 0px rgba(255,140,40,0.0)); }
+      }
       .charizard {
-        animation: charizardBreathe 4.5s ease-in-out infinite;
+        animation: charizardBreathe 4.5s ease-in-out infinite, charizardEmberGlow 4.5s ease-in-out infinite;
         transform-box: fill-box;
         transform-origin: bottom center;
       }
