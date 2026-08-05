@@ -24,7 +24,7 @@
         100% { transform: translateY(0px); }
       }
       .gengar {
-        animation: gengarBounce 2.0s ease-in-out infinite;
+        animation: gengarBounce 2.2s ease-in-out infinite;
         transform-box: fill-box;
         transform-origin: bottom center;
       }
