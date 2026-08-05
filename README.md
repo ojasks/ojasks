@@ -6,11 +6,10 @@
 <td>
 
 <b>⚡ TRAINERS VISITED</b><br>
-<sub>Every trainer who has stopped by.</sub>
 
 </td>
 
-<td width="20"></td>
+<td width="15"></td>
 
 <td>
 
