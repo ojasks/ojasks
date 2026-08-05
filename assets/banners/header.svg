@@ -19,15 +19,15 @@
 
       @keyframes gengarFlicker {
         0%   { opacity: 1; }
-        45%  { opacity: 1; }
+        30%  { opacity: 1; }
         50%  { opacity: 0.72; }
-        55%  { opacity: 1; }
+        70%  { opacity: 1; }
         100% { opacity: 1; }
       }
       .gengar {
-        animation: gengarFlicker 6s ease-in-out infinite;
+        animation: gengarFlicker 3.4s ease-in-out infinite;
         transform-box: fill-box;
-        transform-origin: bottom center;
+        ransform-origin: bottom center;
       }
     </style>
 
