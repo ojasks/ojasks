@@ -210,34 +210,7 @@
 
 </svg>
 
-<svg width="850" height="70" viewBox="0 0 850 70" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background stays only as wide as the card itself -->
-  <rect width="850" height="70" rx="10" fill="#0d1117"/>
-  <rect x="2" y="2" width="846" height="66" rx="9" fill="none" stroke="#30363d" stroke-width="2"/>
 
-  <!-- Main Card: stops short, no right-side rounding -->
-  <path d="M 70 12 
-           H 780 
-           V 58 
-           H 70 
-           A 8 8 0 0 1 62 50
-           V 20
-           A 8 8 0 0 1 70 12 Z"
-        fill="#161b22" stroke="#8957e5" stroke-width="2"/>
-
-  <!-- Title -->
-  <text x="90" y="42" fill="#a371f7" font-family="monospace" font-size="20" font-weight="bold" dominant-baseline="middle">
-    TRAINERS VISITED
-  </text>
-</svg>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=ojasks&label=&style=for-the-badge&color=e3b341"
-    height="32"
-    alt="Live Trainers Visited Count"
-  />
-</p>
 
 <!--
 
