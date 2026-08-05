@@ -1,6 +1,6 @@
 <!-- ================= TRAINERS VISITED ================= -->
 
-<table align="center">
+<table align="left">
 <tr>
 
 <td>
@@ -9,7 +9,7 @@
 
 </td>
 
-<td width="15"></td>
+<td width="10"></td>
 
 <td>
 
