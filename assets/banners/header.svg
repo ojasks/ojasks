@@ -231,8 +231,13 @@
   </text>
 </svg>
 
-<p align="center"><img src="./assets/trainers-counter.svg" height="32"/><img src="https://komarev.com/ghpvc/?username=ojasks&label=&style=for-the-badge&color=e3b341" height="32"/></p>
-
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=ojasks&label=&style=for-the-badge&color=e3b341"
+    height="32"
+    alt="Live Trainers Visited Count"
+  />
+</p>
 
 <!--
 
