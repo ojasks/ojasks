@@ -19,13 +19,14 @@
 
       @keyframes gengarBounce {
         0%   { transform: translateY(0px); }
-        20%  { transform: translateY(-10px); }
-        40%  { transform: translateY(0px); }
+        15%  { transform: translateY(-18px); }
+        30%  { transform: translateY(0px); }
+        40%  { transform: translateY(-6px); }
         50%  { transform: translateY(0px); }
         100% { transform: translateY(0px); }
       }
       .gengar {
-        animation: gengarBounce 2.4s ease-in-out infinite;
+        animation: gengarBounce 1.6s ease-in-out infinite;
         transform-box: fill-box;
         transform-origin: bottom center;
       }
