@@ -211,82 +211,30 @@
 </svg>
 
 
-<svg
-    width="1200"
-    height="120"
-    viewBox="0 0 1200 120"
-    xmlns="http://www.w3.org/2000/svg"
->
+<!-- ========================= -->
+<!-- TRAINERS VISITED SECTION -->
+<!-- ========================= -->
 
-    <!-- Background -->
-    <rect
-        width="1200"
-        height="120"
-        rx="18"
-        fill="#0d1117"
-    />
+<p align="center">
 
-    <!-- Outer Border -->
-    <rect
-        x="2"
-        y="2"
-        width="1196"
-        height="116"
-        rx="16"
-        fill="none"
-        stroke="#30363d"
-        stroke-width="3"
-    />
+  <img
+    src="./assets/trainers-counter.svg"
+    height="70"
+    alt="Trainers Visited Panel"
+  />
 
-    <!-- Main Card -->
-    <rect
-        x="110"
-        y="22"
-        width="980"
-        height="76"
-        rx="10"
-        fill="#161b22"
-        stroke="#8957e5"
-        stroke-width="2"
-    />
+  <img
+    src="https://komarev.com/ghpvc/?username=ojasks&label=&style=for-the-badge&color=e3b341"
+    height="28"
+    alt="Live Trainers Visited Count"
+  />
 
-    <!-- Title -->
-    <text
-        x="260"
-        y="70"
-        fill="#a371f7"
-        font-family="monospace"
-        font-size="23"
-        font-weight="bold"
-    >
-        TRAINERS VISITED
-    </text>
-
-    <!-- Decorative divider -->
-    <line
-        x1="640"
-        y1="40"
-        x2="640"
-        y2="80"
-        stroke="#30363d"
-        stroke-width="2"
-    />
-
-    <!-- Placeholder -->
-    <text
-        x="820"
-        y="70"
-        text-anchor="middle"
-        fill="#8b949e"
-        font-family="monospace"
-        font-size="17"
-    >
-        LIVE COUNT →
-    </text>
-
-</svg>
+</p>
 
 
+<!-- ========================= -->
+<!-- END TRAINERS VISITED SECTION -->
+<!-- ========================= -->
 <!--
 
 This profile started as a random idea during one of those moments of boredom,
