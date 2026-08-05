@@ -18,16 +18,16 @@
       }
 
      @keyframes gengarSway {
-    0%   { transform: translateX(0px) rotate(0deg); }
-    25%  { transform: translateX(-6px) rotate(-2deg); }
-    75%  { transform: translateX(6px) rotate(2deg); }
-    100% { transform: translateX(0px) rotate(0deg); }
-  }
-  .gengar {
-    animation: gengarSway 3.6s ease-in-out infinite;
-    transform-box: fill-box;
-    transform-origin: bottom center;
-  }
+        0%   { transform: translateX(0px) rotate(0deg); }
+        25%  { transform: translateX(-6px) rotate(-2deg); }
+        75%  { transform: translateX(6px) rotate(2deg); }
+        100% { transform: translateX(0px) rotate(0deg); }
+     }
+     .gengar {
+        animation: gengarSway 3.6s ease-in-out infinite;
+        transform-box: fill-box;
+        transform-origin: bottom center;
+      }
     </style>
 
     <!-- Background -->
