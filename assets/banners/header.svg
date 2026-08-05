@@ -19,15 +19,18 @@
 
       @keyframes gengarGlitch {
         0%   { transform: translate(0px, 0px); }
-        92%  { transform: translate(0px, 0px); }
-        93%  { transform: translate(-5px, 2px); }
-        94%  { transform: translate(4px, -3px); }
-        95%  { transform: translate(-3px, 0px); }
+        75%  { transform: translate(0px, 0px); }
+        78%  { transform: translate(-5px, 2px); }
+        81%  { transform: translate(4px, -3px); }
+        84%  { transform: translate(-4px, 3px); }
+        87%  { transform: translate(3px, -2px); }
+        90%  { transform: translate(-3px, 1px); }
+        93%  { transform: translate(2px, -2px); }
         96%  { transform: translate(0px, 0px); }
         100% { transform: translate(0px, 0px); }
       }
       .gengar {
-        animation: gengarGlitch 5s ease-in-out infinite;
+        animation: gengarGlitch 2s ease-in-out infinite;
         transform-box: fill-box;
         transform-origin: bottom center;
       }
