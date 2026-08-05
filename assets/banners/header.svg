@@ -17,17 +17,17 @@
         transform-origin: center;
       }
 
-      @keyframes gengarBounce {
-        0%   { transform: translateY(0px); }
-        15%  { transform: translateY(-18px); }
-        30%  { transform: translateY(0px); }
-        100% { transform: translateY(0px); }
-      }
-      .gengar {
-        animation: gengarBounce 3.0s ease-in-out infinite;
-        transform-box: fill-box;
-        transform-origin: bottom center;
-      }
+     @keyframes gengarSway {
+    0%   { transform: translateX(0px) rotate(0deg); }
+    25%  { transform: translateX(-6px) rotate(-2deg); }
+    75%  { transform: translateX(6px) rotate(2deg); }
+    100% { transform: translateX(0px) rotate(0deg); }
+  }
+  .gengar {
+    animation: gengarSway 3.6s ease-in-out infinite;
+    transform-box: fill-box;
+    transform-origin: bottom center;
+  }
     </style>
 
     <!-- Background -->
