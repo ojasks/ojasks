@@ -161,7 +161,7 @@
     <!-- Umbreon — sitting on left battle stone -->
     <image
         class="umbreon"
-        x="535"
+        x="510"
         y="1580"
         width="310"
         height="310"
@@ -174,7 +174,7 @@
     <image
         class="greninja"
         x="1395"
-        y="1540"
+        y="1560"
         width="350"
         height="350"
         preserveAspectRatio="xMidYMid meet"
