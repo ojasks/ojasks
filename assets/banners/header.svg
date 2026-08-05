@@ -285,29 +285,7 @@
     </text>
 
 </svg>
-<!-- ========================= -->
-<!-- TRAINERS VISITED SECTION -->
-<!-- ========================= -->
 
-<p align="center">
-
-  <img
-    src="./assets/trainers-counter.svg"
-    height="70"
-    alt="Trainers Visited Panel"
-  />
-
-  <img
-    src="https://komarev.com/ghpvc/?username=ojasks&label=&style=for-the-badge&color=e3b341"
-    height="28"
-    alt="Live Trainers Visited Count"
-  />
-
-</p>
-
-<!-- ========================= -->
-<!-- END TRAINERS VISITED SECTION -->
-<!-- ========================= -->
 
 <!--
 
