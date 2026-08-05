@@ -58,12 +58,12 @@
       }
 
       @keyframes umbreonGlow {
-        0%   { filter: drop-shadow(0 0 0px rgba(227,179,65,0.0)); }
-        50%  { filter: drop-shadow(0 0 16px rgba(227,179,65,0.8)); }
-        100% { filter: drop-shadow(0 0 0px rgba(227,179,65,0.0)); }
+        0%   { filter: drop-shadow(0 0 0px rgba(227,179,65,0.0)) drop-shadow(0 0 0px rgba(227,179,65,0.0)); }
+        50%  { filter: drop-shadow(0 0 22px rgba(227,179,65,0.85)) drop-shadow(0 0 45px rgba(227,179,65,0.4)); }
+        100% { filter: drop-shadow(0 0 0px rgba(227,179,65,0.0)) drop-shadow(0 0 0px rgba(227,179,65,0.0)); }
       }
       .umbreon {
-        animation: umbreonGlow 3.1s ease-in-out infinite;
+        animation: umbreonGlow 2.8s ease-in-out infinite;
         transform-box: fill-box;
         transform-origin: center;
       }
