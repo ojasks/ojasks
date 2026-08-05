@@ -36,7 +36,7 @@
       }
       @keyframes charizardEmberGlow {
         0%   { filter: drop-shadow(0 0 0px rgba(255,140,40,0.0)); }
-        50%  { filter: drop-shadow(0 0 16px rgba(255,140,40,0.65)); }
+        50%  { filter: drop-shadow(0 0 18px rgba(255,140,40,0.65)); }
         100% { filter: drop-shadow(0 0 0px rgba(255,140,40,0.0)); }
       }
       .charizard {
