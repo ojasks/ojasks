@@ -42,7 +42,7 @@
         100% { filter: drop-shadow(0 0 0px rgba(255,140,40,0.0)); }
       }
       .charizard {
-        animation: charizardRoarBounce 3s ease-in-out infinite, charizardRoarGlow 3s ease-in-out infinite;
+        animation: charizardRoarBounce 4.5s ease-in-out infinite, charizardRoarGlow 3.5s ease-in-out infinite;
         transform-box: fill-box;
         transform-origin: bottom center;
       }
