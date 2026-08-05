@@ -29,13 +29,15 @@
         transform-origin: bottom center;
       }
 
-      @keyframes charizardGlow {
-        0%   { filter: drop-shadow(0 0 0px rgba(255,140,40,0.0)); }
-        50%  { filter: drop-shadow(0 0 18px rgba(255,140,40,0.75)); }
-        100% { filter: drop-shadow(0 0 0px rgba(255,140,40,0.0)); }
+      @keyframes charizardPulse {
+        0%   { transform: scale(1); }
+        50%  { transform: scale(1.035); }
+        100% { transform: scale(1); }
       }
       .charizard {
-        animation: charizardGlow 3s ease-in-out infinite;
+        animation: charizardPulse 3.1s ease-in-out infinite;
+        transform-box: fill-box;
+        transform-origin: bottom center;
       }
     </style>
 
