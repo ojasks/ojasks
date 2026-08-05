@@ -28,6 +28,15 @@
         transform-box: fill-box;
         transform-origin: bottom center;
       }
+
+      @keyframes charizardGlow {
+        0%   { filter: drop-shadow(0 0 0px rgba(255,140,40,0.0)); }
+        50%  { filter: drop-shadow(0 0 18px rgba(255,140,40,0.75)); }
+        100% { filter: drop-shadow(0 0 0px rgba(255,140,40,0.0)); }
+      }
+      .charizard {
+        animation: charizardGlow 3s ease-in-out infinite;
+      }
     </style>
 
     <!-- Background -->
@@ -105,6 +114,7 @@
     />
 
     <!-- Charizard -->
+    class="charizard"
     <image
     x="1540"
     y="715"
