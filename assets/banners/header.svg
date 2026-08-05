@@ -29,13 +29,20 @@
         transform-origin: bottom center;
       }
 
-      @keyframes charizardTilt {
-        0%   { transform: rotate(0deg); }
-        50%  { transform: rotate(-3deg); }
-        100% { transform: rotate(0deg); }
+      @keyframes charizardRoarBounce {
+        0%   { transform: translateY(0px); }
+        15%  { transform: translateY(-18px); }
+        30%  { transform: translateY(0px); }
+        100% { transform: translateY(0px); }
+      }
+      @keyframes charizardRoarGlow {
+        0%   { filter: drop-shadow(0 0 0px rgba(255,140,40,0.0)); }
+        15%  { filter: drop-shadow(0 0 18px rgba(255,140,40,0.8)); }
+        30%  { filter: drop-shadow(0 0 0px rgba(255,140,40,0.0)); }
+        100% { filter: drop-shadow(0 0 0px rgba(255,140,40,0.0)); }
       }
       .charizard {
-        animation: charizardTilt 4s ease-in-out infinite;
+        animation: charizardRoarBounce 3s ease-in-out infinite, charizardRoarGlow 3s ease-in-out infinite;
         transform-box: fill-box;
         transform-origin: bottom center;
       }
