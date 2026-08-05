@@ -1,74 +1,68 @@
 <svg
-    width="1200"
-    height="120"
-    viewBox="0 0 1200 120"
+    width="560"
+    height="76"
+    viewBox="0 0 560 76"
     xmlns="http://www.w3.org/2000/svg"
 >
 
-    <!-- Background -->
+    <!-- Outer Card -->
     <rect
-        width="1200"
-        height="120"
-        rx="18"
+        x="1.5"
+        y="1.5"
+        width="557"
+        height="73"
+        rx="12"
         fill="#0d1117"
-    />
-
-    <!-- Outer Border -->
-    <rect
-        x="2"
-        y="2"
-        width="1196"
-        height="116"
-        rx="16"
-        fill="none"
         stroke="#30363d"
         stroke-width="3"
     />
 
-    <!-- Main Card -->
+    <!-- Inner Card -->
     <rect
-        x="110"
-        y="22"
-        width="980"
-        height="76"
-        rx="10"
+        x="14"
+        y="12"
+        width="532"
+        height="52"
+        rx="8"
         fill="#161b22"
         stroke="#8957e5"
         stroke-width="2"
     />
 
+    <!-- Icon -->
+    <text
+        x="38"
+        y="45"
+        font-family="monospace"
+        font-size="18"
+        fill="#e3b341"
+    >
+        ⚡
+    </text>
+
     <!-- Title -->
     <text
-        x="260"
-        y="70"
-        fill="#a371f7"
+        x="280"
+        y="36"
+        text-anchor="middle"
         font-family="monospace"
-        font-size="23"
+        font-size="20"
         font-weight="bold"
+        fill="#a371f7"
     >
         TRAINERS VISITED
     </text>
 
-    <!-- Decorative divider -->
-    <line
-        x1="640"
-        y1="40"
-        x2="640"
-        y2="80"
-        stroke="#30363d"
-        stroke-width="2"
-    />
-
-    <!-- Placeholder -->
+    <!-- Subtitle -->
     <text
-        x="820"
-        y="70"
+        x="280"
+        y="53"
         text-anchor="middle"
-        fill="#8b949e"
         font-family="monospace"
-        font-size="17"
+        font-size="12"
+        fill="#8b949e"
     >
-        LIVE COUNT →
+        Every trainer who has stopped by.
     </text>
 
 </svg>
