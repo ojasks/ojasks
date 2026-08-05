@@ -93,6 +93,7 @@
 
     <!-- Gengar -->
     <image
+    class="gengar"
     x="160"
     y="820"
     width="400"
