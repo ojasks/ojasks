@@ -17,13 +17,15 @@
         transform-origin: center;
       }
 
-      @keyframes gengarPulse {
-        0%   { transform: scale(1); }
-        50%  { transform: scale(1.035); }
-        100% { transform: scale(1); }
+      @keyframes gengarSwayTilt {
+        0%   { transform: translateX(0px) rotate(0deg); }
+        25%  { transform: translateX(-7px) rotate(-3deg); }
+        50%  { transform: translateX(0px) rotate(0deg); }
+        75%  { transform: translateX(7px) rotate(3deg); }
+        100% { transform: translateX(0px) rotate(0deg); }
       }
       .gengar {
-        animation: gengarPulse 2.6s ease-in-out infinite;
+        animation: gengarSwayTilt 3.8s ease-in-out infinite;
         transform-box: fill-box;
         transform-origin: bottom center;
       }
