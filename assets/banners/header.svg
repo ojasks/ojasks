@@ -116,8 +116,8 @@
     />
 
     <!-- Charizard -->
-    class="charizard"
     <image
+    class="charizard"
     x="1540"
     y="715"
     width="500"
