@@ -46,14 +46,14 @@
         font-size="23"
         font-weight="bold"
     >
-        TRAINERS VISITED ↓
+        TRAINERS VISITED 🔝 
     </text>
 
     <!-- Decorative divider -->
     <line
-        x1="640"
+        x1="600"
         y1="40"
-        x2="640"
+        x2="600"
         y2="80"
         stroke="#30363d"
         stroke-width="2"
