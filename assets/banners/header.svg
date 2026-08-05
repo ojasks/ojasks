@@ -21,8 +21,6 @@
         0%   { transform: translateY(0px); }
         15%  { transform: translateY(-18px); }
         30%  { transform: translateY(0px); }
-        40%  { transform: translateY(-6px); }
-        50%  { transform: translateY(0px); }
         100% { transform: translateY(0px); }
       }
       .gengar {
