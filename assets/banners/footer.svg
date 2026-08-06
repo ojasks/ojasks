@@ -39,7 +39,7 @@
 
     <!-- Title -->
     <text
-        x="260"
+        x="220"
         y="70"
         fill="#a371f7"
         font-family="monospace"
@@ -51,9 +51,9 @@
 
     <!-- Decorative divider -->
     <line
-        x1="670"
+        x1="630"
         y1="40"
-        x2="670"
+        x2="630"
         y2="80"
         stroke="#30363d"
         stroke-width="2"
